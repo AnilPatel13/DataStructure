@@ -24,6 +24,8 @@ Gaining a deep understanding of data structures is crucial for writing efficient
 4. [Queue](#Queue)
 5. [Tree](#Tree)
 7. [Hash Table](#HashTable)
+8. [Heap](#Heap)
+9. [Graph](#Graph)
 
 Each data structure has its dedicated markdown file with explanations, examples, and sample code.
 
