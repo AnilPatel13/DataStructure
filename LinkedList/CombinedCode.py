@@ -101,7 +101,7 @@ class LinkedinList:
         if index == 0:
             return self.pop_fisrt()
         if index == self.length:
-            return self.pop
+            return self.pop()
         pre = self.get(index - 1)
         temp = pre.next
         pre.next = temp.next
